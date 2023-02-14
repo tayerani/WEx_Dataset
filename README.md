@@ -8,6 +8,10 @@ In this Github repo, we provide two datasets to be used for the Water-Exergy Nex
 If you use this dataset please cite the work `WExNA`:
 
 ```
-@inproceedings{
+@inproceedings{WEx_Dataset,
+  author    = {Pouya Ifaei and
+               Amir Saman Tayerani Charmchi},
+  title     = {WEx_Dataset: Water-Exergy Dataset},
+  publisher = {GitHub Repo},
+  year      = {2023},
 }
-```
